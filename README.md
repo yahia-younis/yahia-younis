@@ -54,7 +54,7 @@
       width="40" height="40" /> </a></p>
 
 <br>
-
+<br>
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=yahia-younis&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
@@ -69,3 +69,11 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yahia-younis&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)
+
+---
+
+Credit by : [yahia younis](https://github.com/yahia-younis)
+
+Last Edited on: 7/7/2022
