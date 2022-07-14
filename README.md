@@ -26,10 +26,7 @@
       alt="_._.adam._" height="30" width="40" /></a>
  <a href="https://twitter.com/Yahiayouniss" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a> <a href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> </a> 
+      alt="adampithewan" height="30" width="40" /></a> 
 </p>
 
 <br>
@@ -52,7 +49,12 @@
       alt="react" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a></p>
+      width="40" height="40" /> </a>
+      <a href="https://www.adobe.com/in/products/illustrator.html"
+       target="_blank" rel="noreferrer"> <img
+      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
+      height="40" /> </a> 
+      </p>
 
 <br>
 <br>
